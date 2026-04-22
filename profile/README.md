@@ -7,7 +7,7 @@ REXT is an AI-powered content automation platform that helps marketers, bloggers
 👉 **Start Free — No Credit Card Required**  
 👉 **Get a Demo**
 
----
+--
 
 ## ⭐ Trusted by Teams Worldwide
 
@@ -19,7 +19,7 @@ REXT is an AI-powered content automation platform that helps marketers, bloggers
 - **Capterra:** 4.9/5 (400+ Reviews)  
 - **Trustpilot:** 4.6/5 (100+ Reviews)  
 
----
+--
 
 ## 🚧 The Problem
 
