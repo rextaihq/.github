@@ -7,7 +7,7 @@ REXT is an AI-powered content automation platform that helps marketers, bloggers
 👉 **Start Free — No Credit Card Required**  
 👉 **Get a Demo**
 
---
+
 
 ## ⭐ Trusted by Teams Worldwide
 
@@ -19,7 +19,7 @@ REXT is an AI-powered content automation platform that helps marketers, bloggers
 - **Capterra:** 4.9/5 (400+ Reviews)  
 - **Trustpilot:** 4.6/5 (100+ Reviews)  
 
---
+
 
 ## 🚧 The Problem
 
@@ -32,7 +32,7 @@ Modern content workflows are broken:
 
 👉 Result: **Wasted time, higher costs, and content that doesn’t rank**
 
----
+
 
 ## ✅ The Solution: Rext
 
@@ -40,7 +40,7 @@ Your **all-in-one content creation powerhouse**.
 
 REXT helps you generate **SEO-optimized, E-E-A-T aligned, human-quality content in minutes**—without guesswork.
 
----
+
 
 ## 🔥 What You Can Do
 
@@ -51,7 +51,6 @@ REXT helps you generate **SEO-optimized, E-E-A-T aligned, human-quality content 
 - 📈 Scale content without hiring more writers  
 - 🚀 Publish directly to your CMS in one click  
 
----
 
 ## 🧩 Core Features
 
@@ -61,7 +60,7 @@ REXT helps you generate **SEO-optimized, E-E-A-T aligned, human-quality content 
 - Competitor gap analysis  
 - Long-tail opportunities  
 
----
+
 
 ### ✍️ One-Click Blog Generation
 - 2000+ word articles  
@@ -69,7 +68,7 @@ REXT helps you generate **SEO-optimized, E-E-A-T aligned, human-quality content 
 - Proper H1/H2/H3 structure  
 - Auto linking & citations  
 
----
+
 
 ### 🧠 E-E-A-T Optimization
 - Author bio generation  
@@ -77,7 +76,7 @@ REXT helps you generate **SEO-optimized, E-E-A-T aligned, human-quality content 
 - Authority links  
 - Statistical citations  
 
----
+
 
 ### 🤖 Undetectable AI
 - Passes AI detection tools  
@@ -85,7 +84,7 @@ REXT helps you generate **SEO-optimized, E-E-A-T aligned, human-quality content 
 - No repetitive patterns  
 - Idiomatic phrasing  
 
----
+
 
 ### 📈 Perfect On-Page SEO
 - Meta titles & descriptions  
@@ -93,7 +92,7 @@ REXT helps you generate **SEO-optimized, E-E-A-T aligned, human-quality content 
 - Internal linking suggestions  
 - Schema-ready structure  
 
----
+
 
 ### 🚀 Auto-Publish (CMS)
 - WordPress, Webflow, Ghost integration  
@@ -101,7 +100,7 @@ REXT helps you generate **SEO-optimized, E-E-A-T aligned, human-quality content 
 - Bulk publishing mode  
 - Scheduled posts  
 
----
+
 
 ## 🎯 Who Is It For?
 
@@ -111,7 +110,7 @@ REXT helps you generate **SEO-optimized, E-E-A-T aligned, human-quality content 
 - White-label reports  
 - Team collaboration  
 
----
+
 
 ### 🌐 Niche Site Builders
 - Programmatic SEO  
@@ -119,7 +118,7 @@ REXT helps you generate **SEO-optimized, E-E-A-T aligned, human-quality content 
 - Instant indexing  
 - Competitor analysis  
 
----
+
 
 ### 📊 Marketing Teams
 - Brand voice AI  
@@ -127,7 +126,7 @@ REXT helps you generate **SEO-optimized, E-E-A-T aligned, human-quality content 
 - Social media repurposing  
 - Performance analytics  
 
----
+
 
 ## 💬 What Users Say
 
@@ -143,7 +142,7 @@ REXT helps you generate **SEO-optimized, E-E-A-T aligned, human-quality content 
 > “The ROI on our content has tripled since we started using Rext.”  
 **— CMO @ EcomBoost**
 
----
+
 
 ## ⚡ Why Choose Rext?
 
@@ -153,7 +152,7 @@ REXT helps you generate **SEO-optimized, E-E-A-T aligned, human-quality content 
 - Eliminates tool fragmentation  
 - Delivers real ranking results  
 
----
+
 
 ## 🚀 Get Started
 
@@ -162,7 +161,7 @@ Join **500+ teams** already using Rext to scale high-quality content.
 [![Start Free](https://img.shields.io/badge/Start-Free-success)](#)  
 [![Get Demo](https://img.shields.io/badge/Get-Demo-blue)](#)
 
----
+
 
 ## 📚 Resources
 
@@ -171,7 +170,7 @@ Join **500+ teams** already using Rext to scale high-quality content.
 - Help Center  
 - Product Updates  
 
----
+
 
 ## 🏢 Company
 
@@ -180,14 +179,14 @@ Join **500+ teams** already using Rext to scale high-quality content.
 - Contact  
 - Press & Media  
 
----
+
 
 ## 📜 Legal
 
 - Privacy Policy  
 - Terms of Service  
 
----
+
 
 ## © 2026 Rext Inc.
 All rights reserved.
